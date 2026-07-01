@@ -49,4 +49,5 @@ assets/       Images and fonts
 
 ## Author
 
-Ahzam
+Ahzam Yousuf
+
